@@ -1,0 +1,12 @@
+{
+  "name": "sawd_proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto básico para servidor web en Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

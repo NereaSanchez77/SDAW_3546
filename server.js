@@ -1,4 +1,10 @@
+// --- Servidor de Práctica SDAW ---
+// Creado por Nerea Sanchez Tornel
+// ---------------------------------
+
+// 1. Importar el módulo 'express'
 const express = require("express");
+// ... (el resto del archivo sigue igual)
 const app = express();
 const path = require("path");
 

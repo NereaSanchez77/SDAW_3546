@@ -1,8 +1,7 @@
 # Proyecto SDAW_3546
-
-Este proyecto consiste en una aplicación web muy sencilla que muestra un mensaje personalizado mediante JavaScript al pulsar un botón.  
-El proyecto incluye un servidor local construido con Node.js y Express, lo que permite visualizar la aplicación desde `http://localhost:3000`.  
-Este trabajo forma parte del módulo SDAW/Sistemas y Desarrollo de Aplicaciones Web.
+## Nerea Sanchez Tornel
+Este proyecto es una aplicación web muy sencilla que muestra un mensaje al pulsar un botón.  
+Incluye un servidor local creado con Node.js y Express para poder ejecutarlo en el navegador.
 
 ---
 ## 📌 1. Descripción del proyecto
@@ -122,7 +121,17 @@ app.listen(PORT, () => {
 - **package.json** define el proyecto y sus dependencias.
 - **README.md** explica cómo ejecutarlo.
 
+## Comandos
+** git checkout ** - cambia de rama
+* git checkout -b rama * - Crea una nueva rama
+** git commit ** - Añade comentarios de modificación
+
 ---
+## Información técnica añadida desde rama 2
+
+A continuación, se muestra el historial de commits de la rama main en este punto:
+
+$ git log --oneline
 
 ## 🖥️ 4. Comandos Node.js utilizados
 
@@ -155,7 +164,6 @@ También he aprendido a estructurar un proyecto, gestionar dependencias con npm,
 Además, he practicado comandos esenciales de Git y he comprendido la importancia de usar .gitignore para mantener el repositorio limpio y organizado.
 
 ## Información técnica añadida desde rama 1
-
 En esta sección se describen los principales comandos de Git utilizados durante la práctica:
 - **git init**: Inicializa un nuevo repositorio de Git en la carpeta actual.
 - **git add**: Añade archivos modificados al "staging area", preparándolos para el commit.

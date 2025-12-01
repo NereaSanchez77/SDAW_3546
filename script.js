@@ -6,7 +6,7 @@ boton.style.padding = '10px';
 // Añadir la función de clic
 boton.addEventListener('click', saludar);
 
-// Función 
+// Función de saludar
 function saludar() {
     alert("Hola Nerea Sanchez!");
 }

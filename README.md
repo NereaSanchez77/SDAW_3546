@@ -77,7 +77,10 @@ SDAW_3546
 - **package.json** define el proyecto y sus dependencias.
 - **README.md** explica cómo ejecutarlo.
 
-
+## Comandos
+** git checkout ** - cambia de rama
+* git checkout -b rama * - Crea una nueva rama
+** git commit ** - Añade comentarios de modificación
 
 ---
 ## Información técnica añadida desde rama 2

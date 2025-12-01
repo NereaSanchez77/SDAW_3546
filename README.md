@@ -78,6 +78,10 @@ SDAW_3546
 └── README.md
 
 ---
+## Los Comandos utilizados 
+## Historial de commits en una línea
+
+* git log --oneline
 
 SDAW_3546
 ├── index.html # Página web con el botón

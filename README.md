@@ -77,6 +77,24 @@ SDAW_3546
 - **package.json** define el proyecto y sus dependencias.
 - **README.md** explica cómo ejecutarlo.
 
----
 
+
+---
+## Información técnica añadida desde rama 2
+
+A continuación, se muestra el historial de commits de la rama main en este punto:
+
+$ git log --oneline
+d216902 (HEAD -> rama2-NereaSanchez, origin/rama2-NereaSanchez, origin/main, main) Docs: Añade comentarios de autoría al servidor
+ab9aeda Feat: Cambia el color del botón
+f3ec2be Primer commit: añadir estructura inicial del proyecto
+
+## Información técnica añadida desde rama 1
+
+A continuación, se muestra el historial de commits de la rama main en este punto:
+
+$ git log --oneline
+d216902 (HEAD -> rama1-NereaSanchez, origin/rama1-NereaSanchez, origin/main, main) Docs: Añade comentarios de autoría al servidor
+ab9aeda Feat: Cambia el color del botón
+f3ec2be Primer commit: añadir estructura inicial del proyecto
 

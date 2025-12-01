@@ -68,6 +68,10 @@ SDAW_3546
 └── README.md
 
 ---
+## Los Comandos utilizados 
+## Historial de commits en una línea
+
+* git log --oneline
 
 ## 📘 Descripción de funcionamiento
 
